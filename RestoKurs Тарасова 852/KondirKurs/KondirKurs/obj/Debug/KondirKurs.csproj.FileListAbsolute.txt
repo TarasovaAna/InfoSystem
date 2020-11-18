@@ -1,0 +1,35 @@
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\bin\Debug\Kondir.accdb
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\bin\Debug\SalesReport.dotx.docx
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\bin\Debug\KondirKurs.exe.config
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\bin\Debug\KondirKurs.exe
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\bin\Debug\KondirKurs.pdb
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.ResolveComReference.cache
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.MainForm.resources
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ProductForm.resources
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.Properties.Resources.resources
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ReportForm.resources
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.Sales.resources
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.exe
+\\Mac\Home\Desktop\херня для универа\KondirKurs\KondirKurs\obj\Debug\KondirKurs.pdb
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\bin\Debug\Kondir.accdb
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\bin\Debug\SalesReport.dotx.docx
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\bin\Debug\KondirKurs.exe.config
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\bin\Debug\KondirKurs.exe
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\bin\Debug\KondirKurs.pdb
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.ResolveComReference.cache
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ChartForm.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.MainForm.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ProductForm.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.Properties.Resources.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ReportForm.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.Sales.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.exe
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.pdb
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.ClientForm.resources
+\\Mac\Home\Desktop\RestoKurs\KondirKurs\KondirKurs\obj\Debug\KondirKurs.About.resources
